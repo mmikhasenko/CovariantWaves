@@ -1,0 +1,6 @@
+name: covariantwaves
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - sympy
